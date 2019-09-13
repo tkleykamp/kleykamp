@@ -1,6 +1,6 @@
 ## Hi, I'm Tyler Kleykamp
 
-I'm currently a Fellow at Georgetown University's [Beeck Center for Social Impact + Innovation](https://beeckcenter.georgetown.edu/) where I work on state level data issues.
+I'm currently a  [nnnn](url) where I work on state level data issues.
 
 I was also the first Chief Data Officer for the State of Connecticut
 
