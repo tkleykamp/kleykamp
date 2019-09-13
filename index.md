@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Hi, I'm Tyler Kleykamp
 
-You can use the [editor on GitHub](https://github.com/tkleykamp/kleykamp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currently a Fellow a Georgetown University's [Beeck Center for Social Impact + Innovation](https://beeckcenter.georgetown.edu/) where I work on state level data issues.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I was also the first Chief Data Officer for the State of Connecticut
 
 ### Markdown
 
